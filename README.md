@@ -5,4 +5,5 @@ This project uses a raspberry pi zero device to host FLASK which allows Alexa to
 Credit goes out to:
 https://www.hackster.io/tinkernut/cheap-alexa-printer-from-an-old-receipt-printer-c14ea2
 
-![Printer Image](https://imgur.com/a/Mt7zQ3V)
+![Preview](https://imgur.com/a/Mt7zQ3V)
+

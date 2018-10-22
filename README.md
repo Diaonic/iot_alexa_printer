@@ -6,3 +6,4 @@ Credit goes out to:
 https://www.hackster.io/tinkernut/cheap-alexa-printer-from-an-old-receipt-printer-c14ea2
 
 https://imgur.com/a/Mt7zQ3V
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Mt7zQ3V"><a href="//imgur.com/Mt7zQ3V"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
